@@ -12,7 +12,7 @@ This repository contains a simple yet powerful **Gradient Color Generator** that
 
 ## 🌐 Live Demo
 
-[Click here to try it out](#) *(Replace with your live site link if available)*
+[https://muhammad-khan-khichi.github.io/Gradient-Color-Generator/] *(Replace with your live site link if available)*
 
 ## 📂 Usage
 
